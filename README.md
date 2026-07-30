@@ -16,7 +16,7 @@ The Vedanta Store wants to create an annual sales report for 2022. So that the o
 - Highest selling category?
 - Percentage of Total Orders delivered
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/ankitpandeyji/Data-Analysis-Dashboard/blob/main/Screenshot%202026-07-30%20200902.png">View Dashboard</a>
 
 ## Process
 - Verified data for any missing values and anomalies, and sorted them out accordingly.
